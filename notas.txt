@@ -1,2 +1,4 @@
 Este arquivo contem alguns comandos do git
 git init
+git commit -m "mensagem aqui"
+
