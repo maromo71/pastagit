@@ -1,0 +1,2 @@
+Este arquivo contem alguns comandos do git
+git init
